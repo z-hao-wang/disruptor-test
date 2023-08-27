@@ -1,0 +1,25 @@
+{
+  "name": "genetic-hf",
+  "version": "1.0.1",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XXX",
+  "license": "MIT",
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "shared-memory-disruptor": "git+https://github.com/z-hao-wang/shared-memory-disruptor.git#fix-docker-compile-err"
+  },
+  "devDependencies": {
+
+  }
+}
